@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Category on Home</title><link>https://mygittestt.github.io/categories/new-category/</link><description>Recent content in New Category on Home</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 19 Oct 2020 16:41:49 +0530</lastBuildDate><atom:link href="https://mygittestt.github.io/categories/new-category/index.xml" rel="self" type="application/rss+xml"/><item><title>Myanotherpost</title><link>https://mygittestt.github.io/myanotherpost/</link><pubDate>Mon, 19 Oct 2020 16:41:49 +0530</pubDate><guid>https://mygittestt.github.io/myanotherpost/</guid><description>This is my another post</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>New Category - Category - Home</title>
+        <link>https://mygittestt.github.io/categories/new-category/</link>
+        <description>New Category - Category - Home</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 19 Oct 2020 16:41:49 &#43;0530</lastBuildDate><atom:link href="https://mygittestt.github.io/categories/new-category/" rel="self" type="application/rss+xml" /><item>
+    <title>Myanotherpost</title>
+    <link>https://mygittestt.github.io/myanotherpost/</link>
+    <pubDate>Mon, 19 Oct 2020 16:41:49 &#43;0530</pubDate>
+    <author>Author</author>
+    <guid>https://mygittestt.github.io/myanotherpost/</guid>
+    <description><![CDATA[This is my another post]]></description>
+</item></channel>
+</rss>

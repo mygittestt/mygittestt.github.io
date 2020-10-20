@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Architecture on Home</title><link>https://mygittestt.github.io/categories/architecture/</link><description>Recent content in Architecture on Home</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 Oct 2020 20:36:10 +0530</lastBuildDate><atom:link href="https://mygittestt.github.io/categories/architecture/index.xml" rel="self" type="application/rss+xml"/><item><title>Architecture</title><link>https://mygittestt.github.io/architecture/</link><pubDate>Sat, 17 Oct 2020 20:36:10 +0530</pubDate><guid>https://mygittestt.github.io/architecture/</guid><description>Welcome to this Architecture post. Here we will discuss what is Architecture and how can one benefit from Architecture. This is enough for discussing about Architecture.</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Architecture - Category - Home</title>
+        <link>https://mygittestt.github.io/categories/architecture/</link>
+        <description>Architecture - Category - Home</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 Oct 2020 20:36:10 &#43;0530</lastBuildDate><atom:link href="https://mygittestt.github.io/categories/architecture/" rel="self" type="application/rss+xml" /><item>
+    <title>Architecture</title>
+    <link>https://mygittestt.github.io/architecture/</link>
+    <pubDate>Sat, 17 Oct 2020 20:36:10 &#43;0530</pubDate>
+    <author>Author</author>
+    <guid>https://mygittestt.github.io/architecture/</guid>
+    <description><![CDATA[Welcome to this Architecture post. Here we will discuss what is Architecture and how can one benefit from Architecture. This is enough for discussing about Architecture.]]></description>
+</item></channel>
+</rss>
