@@ -3,9 +3,16 @@
         <title>Home</title>
         <link>https://mygittestt.github.io/</link>
         <description>This is My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Oct 2020 15:22:03 &#43;0530</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Oct 2020 15:46:21 &#43;0530</lastBuildDate>
             <atom:link href="https://mygittestt.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Mynewtest</title>
+    <link>https://mygittestt.github.io/mynewtest/</link>
+    <pubDate>Tue, 20 Oct 2020 15:46:21 &#43;0530</pubDate>
+    <author>Author</author>
+    <guid>https://mygittestt.github.io/mynewtest/</guid>
+    <description><![CDATA[this is test]]></description>
+</item><item>
     <title>Testingpost</title>
     <link>https://mygittestt.github.io/testingpost/</link>
     <pubDate>Tue, 20 Oct 2020 15:22:03 &#43;0530</pubDate>
