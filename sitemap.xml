@@ -4,20 +4,27 @@
   
   <url>
     <loc>https://mygittestt.github.io/</loc>
-    <lastmod>2020-10-20T13:47:30+05:30</lastmod>
+    <lastmod>2020-10-20T13:52:39+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://mygittestt.github.io/mypost/</loc>
-    <lastmod>2020-10-20T13:47:30+05:30</lastmod>
+    <loc>https://mygittestt.github.io/mypost2/</loc>
+    <lastmod>2020-10-20T13:52:39+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://mygittestt.github.io/posts/</loc>
+    <lastmod>2020-10-20T13:52:39+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mygittestt.github.io/mypost/</loc>
     <lastmod>2020-10-20T13:47:30+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
