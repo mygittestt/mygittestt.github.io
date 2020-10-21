@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jenkins - Tag - Home</title>
+        <link>https://mygittestt.github.io/tags/jenkins/</link>
+        <description>Jenkins - Tag - Home</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://mygittestt.github.io/tags/jenkins/" rel="self" type="application/rss+xml" /><item>
+    <title>Jenkins</title>
+    <link>https://mygittestt.github.io/jenkins/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://mygittestt.github.io/jenkins/</guid>
+    <description><![CDATA[Jenkins Tutorial is designed for both beginners and professionals. Our Tutorial provides all the basic and advanced concepts of Jenkins, such as Jenkins installation, Jenkins Configuration, Jenkins Pipeline, etc.
+Jenkins is an open source automation tool written in Java programming language that allows continuous integration.
+Jenkins builds and tests our software projects, which continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build.]]></description>
+</item></channel>
+</rss>
