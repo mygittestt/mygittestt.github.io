@@ -3,14 +3,7 @@
         <title>All Posts - Home</title>
         <link>https://mygittestt.github.io/posts/</link>
         <description>All Posts | Home</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Oct 2020 15:46:21 &#43;0530</lastBuildDate><atom:link href="https://mygittestt.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Mynewtest</title>
-    <link>https://mygittestt.github.io/mynewtest/</link>
-    <pubDate>Tue, 20 Oct 2020 15:46:21 &#43;0530</pubDate>
-    <author>Author</author>
-    <guid>https://mygittestt.github.io/mynewtest/</guid>
-    <description><![CDATA[this is test]]></description>
-</item><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 Oct 2020 20:36:10 &#43;0530</lastBuildDate><atom:link href="https://mygittestt.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Architecture</title>
     <link>https://mygittestt.github.io/architecture/</link>
     <pubDate>Sat, 17 Oct 2020 20:36:10 &#43;0530</pubDate>

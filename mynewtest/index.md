@@ -1,4 +1,0 @@
-# Mynewtest
-
-this is test
-
