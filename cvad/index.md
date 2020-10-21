@@ -1,4 +1,4 @@
-# 
+# CVAD Features
 
 A list of new features associated with the latest Citrix Virtual Apps and Desktops 1906 release. This is a direct copy from the Citrix Documentation in an aggregated view.
 

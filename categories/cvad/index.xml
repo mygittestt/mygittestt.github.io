@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CVAD - Category - Home</title>
+        <link>https://mygittestt.github.io/categories/cvad/</link>
+        <description>CVAD - Category - Home</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://mygittestt.github.io/categories/cvad/" rel="self" type="application/rss+xml" /><item>
+    <title>CVAD Features</title>
+    <link>https://mygittestt.github.io/cvad/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://mygittestt.github.io/cvad/</guid>
+    <description><![CDATA[A list of new features associated with the latest Citrix Virtual Apps and Desktops 1906 release. This is a direct copy from the Citrix Documentation in an aggregated view.
+Release Date: June 17, 2019
+Citrix Virtual Apps and Desktops 7 1906
+This Citrix Virtual Apps and Desktops release includes new versions of the Windows Virtual Delivery Agents (VDAs) and new versions of several core components.
+Universal Print Server: Server component]]></description>
+</item></channel>
+</rss>
