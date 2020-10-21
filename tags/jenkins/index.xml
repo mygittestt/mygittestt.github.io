@@ -3,10 +3,10 @@
         <title>Jenkins - Tag - Home</title>
         <link>https://mygittestt.github.io/tags/jenkins/</link>
         <description>Jenkins - Tag - Home</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://mygittestt.github.io/tags/jenkins/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://mygittestt.github.io/tags/jenkins/" rel="self" type="application/rss+xml" /><item>
     <title>Jenkins</title>
     <link>https://mygittestt.github.io/jenkins/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <pubDate>Wed, 21 Oct 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://mygittestt.github.io/jenkins/</guid>
     <description><![CDATA[Jenkins Tutorial is designed for both beginners and professionals. Our Tutorial provides all the basic and advanced concepts of Jenkins, such as Jenkins installation, Jenkins Configuration, Jenkins Pipeline, etc.
