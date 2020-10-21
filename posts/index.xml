@@ -3,7 +3,18 @@
         <title>All Posts - Home</title>
         <link>https://mygittestt.github.io/posts/</link>
         <description>All Posts | Home</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 Oct 2020 20:36:10 &#43;0530</lastBuildDate><atom:link href="https://mygittestt.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://mygittestt.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>CVAD Features</title>
+    <link>https://mygittestt.github.io/cvad/</link>
+    <pubDate>Wed, 21 Oct 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://mygittestt.github.io/cvad/</guid>
+    <description><![CDATA[A list of new features associated with the latest Citrix Virtual Apps and Desktops 1906 release. This is a direct copy from the Citrix Documentation in an aggregated view.
+Release Date: June 17, 2019
+Citrix Virtual Apps and Desktops 7 1906
+This Citrix Virtual Apps and Desktops release includes new versions of the Windows Virtual Delivery Agents (VDAs) and new versions of several core components.
+Universal Print Server: Server component]]></description>
+</item><item>
     <title>Architecture</title>
     <link>https://mygittestt.github.io/architecture/</link>
     <pubDate>Sat, 17 Oct 2020 20:36:10 &#43;0530</pubDate>
@@ -75,16 +86,5 @@ oh boy
 from beginning to end. It is derived from the description of a full course dinner, in which courses progress from soup to a dessert of nuts.
 Low Hanging Fruit
  the obvious or easy things that can be most readily done or dealt with in achieving success or making progress toward an objective something that is easy to obtain, achieve, or take advantage of: When cutting costs, many companies start with the low-hanging fruit: their ad budgets  usurp [ yoo-surp, -zurp ]]]></description>
-</item><item>
-    <title>CVAD Features</title>
-    <link>https://mygittestt.github.io/cvad/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://mygittestt.github.io/cvad/</guid>
-    <description><![CDATA[A list of new features associated with the latest Citrix Virtual Apps and Desktops 1906 release. This is a direct copy from the Citrix Documentation in an aggregated view.
-Release Date: June 17, 2019
-Citrix Virtual Apps and Desktops 7 1906
-This Citrix Virtual Apps and Desktops release includes new versions of the Windows Virtual Delivery Agents (VDAs) and new versions of several core components.
-Universal Print Server: Server component]]></description>
 </item></channel>
 </rss>
