@@ -2,19 +2,22 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://mygittestt.github.io/categories/</loc><lastmod>2020-10-21T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mygittestt.github.io/categories/</loc><lastmod>2020-10-27T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mygittestt.github.io/</loc><lastmod>2020-10-27T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mygittestt.github.io/posts/</loc><lastmod>2020-10-27T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mygittestt.github.io/scriptstest/</loc><lastmod>2020-10-27T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mygittestt.github.io/tags/scripts/</loc><lastmod>2020-10-27T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mygittestt.github.io/categories/scripts/</loc><lastmod>2020-10-27T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mygittestt.github.io/tags/</loc><lastmod>2020-10-27T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://mygittestt.github.io/tags/cvad/</loc><lastmod>2020-10-21T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://mygittestt.github.io/categories/cvad/</loc><lastmod>2020-10-21T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://mygittestt.github.io/cvad/</loc><lastmod>2020-10-21T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://mygittestt.github.io/</loc><lastmod>2020-10-21T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://mygittestt.github.io/tags/jenkins/</loc><lastmod>2020-10-21T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://mygittestt.github.io/categories/jenkins/</loc><lastmod>2020-10-21T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://mygittestt.github.io/jenkins/</loc><lastmod>2020-10-21T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://mygittestt.github.io/posts/</loc><lastmod>2020-10-21T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://mygittestt.github.io/tags/</loc><lastmod>2020-10-21T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://mygittestt.github.io/tags/architecture/</loc><lastmod>2020-10-17T20:36:10&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://mygittestt.github.io/categories/architecture/</loc><lastmod>2020-10-17T20:36:10&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://mygittestt.github.io/architecture/</loc><lastmod>2020-10-17T20:36:10&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mygittestt.github.io/tags/architecture/</loc><lastmod>2020-10-17T20:36:10&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://mygittestt.github.io/categories/architecture/</loc><lastmod>2020-10-17T20:36:10&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://mygittestt.github.io/architecture/</loc><lastmod>2020-10-17T20:36:10&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://mygittestt.github.io/tags/from-my-other-site/</loc><lastmod>2013-12-15T10:51:15&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://mygittestt.github.io/hindi-to-english-relation-names/</loc><lastmod>2013-12-15T10:51:15&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://mygittestt.github.io/common-workplace-abbreviations/</loc><lastmod>2013-02-24T07:28:59&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>

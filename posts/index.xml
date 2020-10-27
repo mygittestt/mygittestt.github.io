@@ -3,7 +3,14 @@
         <title>All Posts - Home</title>
         <link>https://mygittestt.github.io/posts/</link>
         <description>All Posts | Home</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://mygittestt.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://mygittestt.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Script Test</title>
+    <link>https://mygittestt.github.io/scriptstest/</link>
+    <pubDate>Tue, 27 Oct 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://mygittestt.github.io/scriptstest/</guid>
+    <description><![CDATA[1 2 3  write-host &#34;hello&#34; Add-pssnapin citrix* get-brokermachine -hostedmachinename &#34;test&#34;   ]]></description>
+</item><item>
     <title>CVAD Features</title>
     <link>https://mygittestt.github.io/cvad/</link>
     <pubDate>Wed, 21 Oct 2020 00:00:00 &#43;0000</pubDate>
